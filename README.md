@@ -59,8 +59,6 @@ The recommended first pilot asset is:
 
 **FGL Uganda Payroll Statutory Calculator — FY2026/27**
 
-The pilot should test the complete workflow:
-
 FGL page → GitHub Release → download → version record → update/change log.
 
 ## Status
